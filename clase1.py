@@ -1,6 +1,6 @@
 # ...existing code...
 nombre: str = "Sergio"
-edad: int = 30
+edad: int = 52
 altura: float = 1.75
 esAdmin: bool = False
 # ...existing code...
